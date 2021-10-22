@@ -476,7 +476,7 @@ button {
 }
 
 .icon-md {
-    font-size: 2rem;
+    font-size: 6rem;
 }
 
 .icon-lg {
@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 1.5rem;
+    font-size: 1.8rem;
 }
 
 .tight-width-whitespace {
@@ -695,7 +695,7 @@ p {
     color: #FFFFFF;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
-    font-size: 1rem;
+    font-size: 1.8rem;
     font-weight: 700;
 }
 
@@ -705,12 +705,12 @@ p {
 }
 
 h2 {
-    font-size: 1.5rem;
+    font-size: 2.2rem;
     line-height: 1.4em;
 }
 
 h3 {
-    font-size: 1.5rem;
+    font-size: 2rem;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333;
@@ -735,8 +735,12 @@ h4 {
     margin-top: 24px;
 }
 
+.black {
+    color: black;
+}
+
 .white {
-    color: #FFFFFF;
+    color: white;
 }
 
 .portfolio-thumb {
@@ -775,7 +779,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C;
+    color: white;
 }
 
 .btn-atomic-tangerine {
@@ -785,7 +789,7 @@ h4 {
 
 .btn-atomic-tangerine:hover {
     background: #c27956;
-    color: #303030;
+    color: black;
 }
 
 .ltc-white {
