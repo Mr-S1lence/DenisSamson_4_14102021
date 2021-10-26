@@ -1663,7 +1663,7 @@ mark {
 
 .text-justify {
     text-align: justify;
-    text-justify: distribute;
+    text-justify: auto;
 }
 
 .text-nowrap {
